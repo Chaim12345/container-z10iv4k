@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Chaim12345",
+  "repo": "container-z10iv4k",
+  "name": "Chaim12345",
+  "email": "chaim0586552613@gmail.com",
+}
